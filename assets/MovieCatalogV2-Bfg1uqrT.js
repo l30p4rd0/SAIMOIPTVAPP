@@ -1,0 +1,1 @@
+import{n as e,t}from"./catalog-D3FyGHSq.js";export{t as MovieCatalogV2,e as default};

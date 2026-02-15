@@ -1,0 +1,1 @@
+import"./catalog-D3FyGHSq.js";import{t as e}from"./player-DECz-FPx.js";export{e as VideoPlayer};
